@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+
+  "scripts": {
+    "test": "jest",
+     "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lasqutic/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lasqutic/test/issues"
+  },
+  "homepage": "https://github.com/Lasqutic/test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
